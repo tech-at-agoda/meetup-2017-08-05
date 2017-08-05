@@ -2,6 +2,6 @@
 Agenda
 
 ### Workshop
-* Part 1 
+* Part 1 https://youtu.be/YEQVshhujEA
 * Part 2 
 * BigData.pptx 
